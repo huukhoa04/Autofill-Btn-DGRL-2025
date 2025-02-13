@@ -2,9 +2,13 @@
 
 1. Cài đặt Code Injector cho trình duyệt của bạn tại [Code Injector](https://github.com/Lor-Saba/Code-Injector)
 2. Sau khi cài đặt xong và mở lên sẽ có giao diện như trên hình:
+
    ![Giao diện của Code Injector](img/img1.png)
+
 3. Chọn Add rule và thêm đoạn regex tương ứng với url ĐGRL lớp `sv\.dut\.udn\.vn\/PageDGLop\.aspx ` vào ô:
+
    ![img](img/img2.png)
+   
 4. Add các đoạn mã tương ứng:
 
 - `index.js` vào mục JavaScript
