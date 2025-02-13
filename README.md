@@ -4,11 +4,9 @@
 2. Sau khi cài đặt xong và mở lên sẽ có giao diện như trên hình:
 
    ![Giao diện của Code Injector](img/img1.png)
-
 3. Chọn Add rule và thêm đoạn regex tương ứng với url ĐGRL lớp `sv\.dut\.udn\.vn\/PageDGLop\.aspx ` vào ô:
 
    ![img](img/img2.png)
-   
 4. Add các đoạn mã tương ứng:
 
 - `index.js` vào mục JavaScript
@@ -30,6 +28,7 @@
    const getTableCellSelector = (count) => {
        const paddedCount = count < 100 ? `0${count}` : count;
        return `tr#chcn21CH${paddedCount} td:nth-child(4)`;
+       // return `tr#chcn21CH${paddedCount} td:nth-child(3)`; nếu muốn autofill max điểm (dùng được luôn cho sinh viên tự đánh giá)
    };
 
    const getInputSelector = (count) => {
