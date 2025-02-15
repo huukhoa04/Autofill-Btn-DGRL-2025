@@ -99,14 +99,14 @@
 
 5. Chắc chắn rằng "On page load" và "Top frame only" đã được tick
    ![img](img/img3.png)
-6. Truy cập `http://sv.dut.udn.vn/PageCaNhan.aspx` hoặc reload nếu đang ở trang, sẽ thấy 1 button nhỏ nhỏ "Autofill" bên phải như trong hình
+6. Truy cập `http://sv.dut.udn.vn/PageDGLop.aspx` hoặc reload nếu đang ở trang, sẽ thấy 1 button nhỏ nhỏ "Autofill" bên phải như trong hình
    ![img](img/img4.png)
 7. Load 1 bạn bất kì và ấn "Autofill", dữ liệu sẽ được lấy dựa theo điểm rèn luyện đã đánh giá của các bạn đó. Từ đây bạn có thể tùy chỉnh điểm số hoặc spam "Lưu" mà đỡ tốn thêm thời gian nhập điểm lại từ đầu tới cuối :D
 
 ## Note
 
 - Bạn có thể dùng những code injector khác, miễn là nó có hỗ trợ
-- Đoạn code CSS mình có thêm mấy cái style "Hoa mỹ" khác không có liên quan nhiều nên mấy bạn có thế bỏ cũng đc :D
+- Đoạn code CSS mình có thêm mấy cái style "hoa mĩ" khác không có liên quan nhiều nên mấy bạn có thế bỏ cũng đc :D
 
 ---
 
